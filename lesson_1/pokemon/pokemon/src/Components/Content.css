@@ -1,0 +1,21 @@
+.content{
+    align-self: center;
+    height: 800px;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+  }
+  
+  p{
+    margin: 10px;
+  }
+  
+  .post{
+    display: flex;
+    padding: 15px;
+    margin-top: 15px;
+    justify-content: space-around;
+    align-items: center;
+  }
+  

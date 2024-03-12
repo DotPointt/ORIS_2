@@ -1,0 +1,25 @@
+.btn{
+  height: 100px;
+  width: 200px
+}
+
+*{
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+#root{
+  display: block;
+  justify-content: center;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
