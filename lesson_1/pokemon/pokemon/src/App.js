@@ -4,43 +4,42 @@ import {useCallback, useEffect, useState} from 'react';
 import Header from './Components/Header';
 import Content from './Components/Content';
 
-import {usePokemonStore} from "./Components/PokemonStateStore.jsx"
 
 const url = 'https://pokeapi.co/api/v2/pokemon/?limit=150';
 
 function App() {
-  const[state, setState] = useState(0);
-  const[cards, setCards] = useState();  
 
+  const[defaultList, setDefaultList] = useState();  
+  const[PokemonList, setPokemonList] = useState();
 
-  const {pokemonsList, setPokemonsList, refreshPokemonsList} = usePokemonStore();
 
 
   useEffect( () => {
     const fetchPokemons = async () =>{
       const response = await fetch(url);
       const cards = await response.json();
-      setCards(cards);
+      setDefaultList(cards);
 
-      setPokemonsList(cards.results);
-      console.log("CARDS RESULTS")
-      console.log(cards.results)
+      setPokemonList(cards.results);
+
     };
 
     fetchPokemons();
   }, []);
 
   
-  if (!cards) {
+  if (!defaultList) {
     return <div>...</div>; 
   }
+
 
   return (
     <div className="App">
 
-      <Header/>
-      
-      <Content cards={cards}/>
+      <Header setter={setPokemonList} list={defaultList}/>
+
+      {/* {PokemonList.map( (poke => <p>{poke.name}</p>))} */}
+      <Content list={PokemonList}/>
 
     </div>
   )

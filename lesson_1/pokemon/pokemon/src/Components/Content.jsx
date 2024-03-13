@@ -3,33 +3,21 @@ import { useState, useEffect } from "react";
 import './Content.css'
 import Card from "./Card";
 
-import {usePokemonStore} from "./PokemonStateStore.jsx"
-import {useSearchedPokemonStore} from "./SearchedStateStore.jsx";
 
 const Content = function(props){
     
-  const {pokemonsList, setPokemonsList, refreshPokemonsList} = usePokemonStore();
-  const {searchedPokemonsList, setSearchedList} = useSearchedPokemonStore();
+  const PokemonList = props.list
 
-  useEffect(() =>{
-    setSearchedList(pokemonsList)
-  }, [pokemonsList])
 
-  console.log("SEARCHEDPOKEMONSLIST")
-console.log(searchedPokemonsList)
 
-console.log("CARDSRESULTS")
-console.log(pokemonsList)
-
-  if (searchedPokemonsList.length > 0) {
+  if (PokemonList.length > 0) {
       return (
             <div className='content'>
 
-            {props.cards.results.map( (card) => {
+              {PokemonList.map( (card) => {
 
-              return  <Card card={card} />
-            })}
-            <div className='post'></div>
+                return  <Card key={card.id} card={card} />
+              })}
           </div>
       )
   }
@@ -43,15 +31,6 @@ console.log(pokemonsList)
       )
   }
 
-    return(
-      <div className='content'>
-        
-        {props.cards.results.map( (card) => {
-          return  <Card card={card} />
-        })}
-        <div className='post'></div>
-      </div>
-    )
 }
 
 

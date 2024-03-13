@@ -2,47 +2,52 @@ import './Header.css'
 import React from "react";
 import { useState, useEffect } from "react";
 
-import {usePokemonStore} from "./PokemonStateStore.jsx"
-import {useSearchedPokemonStore} from "./SearchedStateStore.jsx";
 
-const Header = function(){
+const Header = function(props){
 
-  const [searchInput, setSearchInput] = useState('');
-  const [searchResult, setResult] = useState([]);
-  const {pokemonsList} = usePokemonStore();
-  const {setSearchedList } = useSearchedPokemonStore()
+  const defaultPokemonList = props.list.results
+  const [searchItem, setSearchItem] = useState('');
+
 
   useEffect(() => {
-      if (searchInput.length !== 0) {
-          const filiteredPokemons = pokemonsList.filter((item) => {
-              return (item.pokemon.name)
-          });
-          console.log("po")
-          console.log(pokemonsList);
-          setResult(filiteredPokemons);
-      }
-      else{
-          setResult(pokemonsList);
-      }
-  }, [searchInput])
+    const Debounce = setTimeout(() => {
+      // console.log(defaultPokemonList);
+      const filteredPokemons = filterPokemons(searchItem, defaultPokemonList);
+      props.setter(filteredPokemons);
+    }, 300);
 
-  useEffect(() =>{
-      setSearchedList(searchResult);
-  }, [searchResult])
+    return () => clearTimeout(Debounce);
+  }, [searchItem])
 
-  const searchPokemons = (value) =>{
-      setSearchInput(value)
-  }
+
+  // useEffect(() => {
+  //     if (searchItem.length !== 0) {
+  //         const filiteredPokemons = pokemonsList.filter((item) => {
+  //             return (item.pokemon.name)
+  //         });
+  //         console.log("po")
+  //         console.log(pokemonsList);
+  //         props.setter(filiteredPokemons);
+  //     }
+  //     else{
+  //         props.setter(pokemonsList);
+  //     }
+  // }, [searchItem])
+
+  // useEffect(() =>{
+  //     props.setter(searchResult);
+  // }, [searchResult])
+
 
 
     return(
         <header>
           <img className='pokeball' src='image.png'/>  
         <div className='searchContainer'>
-          <p>Whom are you looking for?</p>
+          <p>Who are you looking for?</p>
           <div className='searchLine'>
             <img className='magnifier' src='search.png'/> 
-            <input className='searchBar' placeholder='        E.g Pikachu' onChange={(e) => searchPokemons(e.target.value)}></input> 
+            <input className='searchBar' placeholder='        E.g Pikachu' onChange={(e) => setSearchItem(e.target.value)}></input> 
             <button className='btn'>GO</button>
           </div>
         </div>
@@ -50,5 +55,20 @@ const Header = function(){
     )
 }
 
+const filterPokemons = (searchText, defaultList) =>{
+  if(!searchText){
+    return defaultList;
+  }
+
+  return defaultList.filter(pokemon =>
+  pokemon.name.toLowerCase().includes(searchText.toLowerCase())
+  );
+
+}
 
 export default Header;
+
+
+// return defaultList.filter(({pokemon}) =>
+// pokemon.name.toLowerCase().includes(searchText.toLowerCase())
+// );
