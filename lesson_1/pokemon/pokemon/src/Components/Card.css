@@ -9,6 +9,11 @@
     min-height: 80px;
   }
 
+.card a {
+    text-decoration: none !important; 
+    color: inherit;
+}
+
 .pokemon_info{
     display: flex;
     justify-content: space-around;
@@ -30,4 +35,6 @@
     border-radius: 10px;
     padding: 10px;
     margin-top: 10px;
+    margin: 10px;
+    color: aliceblue;
 }
