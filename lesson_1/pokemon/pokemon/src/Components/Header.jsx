@@ -7,36 +7,21 @@ const Header = function(props){
 
   const defaultPokemonList = props.list.results
   const [searchItem, setSearchItem] = useState('');
+  const setSearchedList = props.setter;
 
 
   useEffect(() => {
     const Debounce = setTimeout(() => {
       // console.log(defaultPokemonList);
       const filteredPokemons = filterPokemons(searchItem, defaultPokemonList);
-      props.setter(filteredPokemons);
+      console.log('filteredPokemons');
+      console.log(filteredPokemons);
+
+      setSearchedList(filteredPokemons);
     }, 300);
 
     return () => clearTimeout(Debounce);
   }, [searchItem])
-
-
-  // useEffect(() => {
-  //     if (searchItem.length !== 0) {
-  //         const filiteredPokemons = pokemonsList.filter((item) => {
-  //             return (item.pokemon.name)
-  //         });
-  //         console.log("po")
-  //         console.log(pokemonsList);
-  //         props.setter(filiteredPokemons);
-  //     }
-  //     else{
-  //         props.setter(pokemonsList);
-  //     }
-  // }, [searchItem])
-
-  // useEffect(() =>{
-  //     props.setter(searchResult);
-  // }, [searchResult])
 
 
 
@@ -47,7 +32,7 @@ const Header = function(props){
           <p>Who are you looking for?</p>
           <div className='searchLine'>
             <img className='magnifier' src='search.png'/> 
-            <input className='searchBar' placeholder='        E.g Pikachu' onChange={(e) => setSearchItem(e.target.value)}></input> 
+            <input type='text' className='searchBar' placeholder='E.g Pikachu' onChange={(e) => setSearchItem(e.target.value)}></input> 
             <button className='btn'>GO</button>
           </div>
         </div>
@@ -57,7 +42,7 @@ const Header = function(props){
 
 const filterPokemons = (searchText, defaultList) =>{
   if(!searchText){
-    return defaultList;
+    return null;
   }
 
   return defaultList.filter(pokemon =>
@@ -68,7 +53,3 @@ const filterPokemons = (searchText, defaultList) =>{
 
 export default Header;
 
-
-// return defaultList.filter(({pokemon}) =>
-// pokemon.name.toLowerCase().includes(searchText.toLowerCase())
-// );

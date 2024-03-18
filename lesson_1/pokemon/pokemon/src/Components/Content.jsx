@@ -8,7 +8,14 @@ const Content = function(props){
     
   const PokemonList = props.list
 
+  console.log(PokemonList)
 
+
+  if (!PokemonList){
+    return <div>Content LOading...</div>; 
+  }
+
+  console.log(PokemonList);
 
   if (PokemonList.length > 0) {
       return (
@@ -16,7 +23,7 @@ const Content = function(props){
 
               {PokemonList.map( (card) => {
 
-                return  <Card key={card.id} card={card} />
+                return  <Card key={card.name} card={card} />
               })}
           </div>
       )
