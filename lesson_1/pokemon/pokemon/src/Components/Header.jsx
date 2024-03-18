@@ -12,10 +12,7 @@ const Header = function(props){
 
   useEffect(() => {
     const Debounce = setTimeout(() => {
-      // console.log(defaultPokemonList);
       const filteredPokemons = filterPokemons(searchItem, defaultPokemonList);
-      console.log('filteredPokemons');
-      console.log(filteredPokemons);
 
       setSearchedList(filteredPokemons);
     }, 300);
@@ -27,11 +24,11 @@ const Header = function(props){
 
     return(
         <header>
-          <img className='pokeball' src='image.png'/>  
+          <img className='pokeball' src='/ORIS_2/image.png'/>  
         <div className='searchContainer'>
           <p>Who are you looking for?</p>
           <div className='searchLine'>
-            <img className='magnifier' src='search.png'/> 
+            <img className='magnifier' src='/ORIS_2/search.png'/> 
             <input type='text' className='searchBar' placeholder='E.g Pikachu' onChange={(e) => setSearchItem(e.target.value)}></input> 
             <button className='btn'>GO</button>
           </div>

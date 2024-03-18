@@ -33,7 +33,7 @@ const Content = function(props){
           <div >
               <h1>Oops! Try again.</h1>
               <span>The Pokemon you're looking for doesn't exist in this list.</span>
-              <img src="adfaef.png" alt="pikachu" />
+              <img src="/ORIS_2/adfaef.png" alt="pikachu" />
           </div>
       )
   }

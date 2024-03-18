@@ -7,7 +7,7 @@ import { RouterProvider, createBrowserRouter} from "react-router-dom";
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/ORIS_2/',
     element: <App />,
   },
   {

@@ -3,11 +3,8 @@ import './App.css';
 import {useCallback, useEffect, useState} from 'react';
 import Header from './Components/Header';
 import Content from './Components/Content';
-import { useFetcher } from 'react-router-dom';
 import axios from 'axios'
 
-
-const url = 'https://pokeapi.co/api/v2/pokemon/?limit=40';
 
 function App() {
 
@@ -19,18 +16,15 @@ function App() {
 
 
 
-  // useEffect( () => {
-  //   const fetchPokemons = async () =>{
-  //     const response = await fetch(url);
-  //     const cards = await response.json();
-  //     setDefaultList(cards);
+  useEffect( () => {
+    const fetchPokemons = async () =>{
+      const response = await fetch('https://pokeapi.co/api/v2/pokemon/?limit=1300');
+      const cards = await response.json();
+      setDefaultList(cards);
+    };
 
-  //     setPokemonList(cards.results);
-
-  //   };
-
-  //   fetchPokemons();
-  // }, []);
+    fetchPokemons();
+  }, []);
 
   useEffect( () => {
     if (fetching){
@@ -59,7 +53,7 @@ function App() {
   const scrollHandler = (e) => {
     if (e.target.documentElement.scrollHeight - (e.target.documentElement.scrollTop + window.innerHeight) < 100){
         setFetching(true);
-        console.log('fetcing set true');
+
     }
   }
 
@@ -68,8 +62,6 @@ function App() {
   }
 
 
-  console.log("PokemonSearchedList");
-  console.log(PokemonSearchedList);
 
   if (PokemonSearchedList){
       return (
