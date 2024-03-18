@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ORIS_2/static/css/main.145513df.css",
+    "main.js": "/ORIS_2/static/js/main.50a93e15.js",
+    "index.html": "/ORIS_2/index.html",
+    "main.145513df.css.map": "/ORIS_2/static/css/main.145513df.css.map",
+    "main.50a93e15.js.map": "/ORIS_2/static/js/main.50a93e15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145513df.css",
+    "static/js/main.50a93e15.js"
+  ]
+}
