@@ -1,0 +1,933 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TeamHost.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TeamHost.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\css\\libs.min.css",
+      "PackagePath": "staticwebassets\\css\\libs.min.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\css\\maps\\main.css.map",
+      "PackagePath": "staticwebassets\\css\\maps\\main.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\css\\showcase.css",
+      "PackagePath": "staticwebassets\\css\\showcase.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-Bold.woff"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-Bold.woff2"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-Italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-Italic.woff"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-Italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-Italic.woff2"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-Light.woff"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-Light.woff2"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-SemiBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI-SemiBold.woff2"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI.woff",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI.woff"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\SegoeUI.woff2",
+      "PackagePath": "staticwebassets\\fonts\\SegoeUI.woff2"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\icons.eot"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\icons.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icons.ttf"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\icons.woff"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\fonts\\icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\icons.woff2"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\Badge 1.png",
+      "PackagePath": "staticwebassets\\img\\Badge 1.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\Badge 2.png",
+      "PackagePath": "staticwebassets\\img\\Badge 2.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\Badge 3.png",
+      "PackagePath": "staticwebassets\\img\\Badge 3.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\Russia.jpg",
+      "PackagePath": "staticwebassets\\img\\Russia.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\Tay.jpg",
+      "PackagePath": "staticwebassets\\img\\Tay.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\acheivement-1.png",
+      "PackagePath": "staticwebassets\\img\\acheivement-1.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\acheivement-2.png",
+      "PackagePath": "staticwebassets\\img\\acheivement-2.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\acheivement-3.png",
+      "PackagePath": "staticwebassets\\img\\acheivement-3.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\acheivement-4.png",
+      "PackagePath": "staticwebassets\\img\\acheivement-4.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\acheivement-5.png",
+      "PackagePath": "staticwebassets\\img\\acheivement-5.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\activities-1.png",
+      "PackagePath": "staticwebassets\\img\\activities-1.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\activities-2.png",
+      "PackagePath": "staticwebassets\\img\\activities-2.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\activity-1.jpg",
+      "PackagePath": "staticwebassets\\img\\activity-1.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\activity-2.jpg",
+      "PackagePath": "staticwebassets\\img\\activity-2.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\badge-1.png",
+      "PackagePath": "staticwebassets\\img\\badge-1.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\badge-2.png",
+      "PackagePath": "staticwebassets\\img\\badge-2.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\badge-3.png",
+      "PackagePath": "staticwebassets\\img\\badge-3.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\bg-first-screen.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-first-screen.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\c0.jpg",
+      "PackagePath": "staticwebassets\\img\\c0.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\c1.jpeg",
+      "PackagePath": "staticwebassets\\img\\c1.jpeg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\c2.jpeg",
+      "PackagePath": "staticwebassets\\img\\c2.jpeg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\c3.jpeg",
+      "PackagePath": "staticwebassets\\img\\c3.jpeg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\c4.jpeg",
+      "PackagePath": "staticwebassets\\img\\c4.jpeg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\c5.jpeg",
+      "PackagePath": "staticwebassets\\img\\c5.jpeg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\community-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\community-item-1.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\community-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\community-item-2.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\community-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\community-item-3.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\community-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\community-item-4.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\community-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\community-item-5.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\cv.jpg",
+      "PackagePath": "staticwebassets\\img\\cv.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\english.jpg",
+      "PackagePath": "staticwebassets\\img\\english.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-1.jpg",
+      "PackagePath": "staticwebassets\\img\\game-1.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-1.png",
+      "PackagePath": "staticwebassets\\img\\game-1.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-10.jpg",
+      "PackagePath": "staticwebassets\\img\\game-10.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-11.jpg",
+      "PackagePath": "staticwebassets\\img\\game-11.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-12.jpg",
+      "PackagePath": "staticwebassets\\img\\game-12.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-2.jpg",
+      "PackagePath": "staticwebassets\\img\\game-2.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-2.png",
+      "PackagePath": "staticwebassets\\img\\game-2.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-3.jpg",
+      "PackagePath": "staticwebassets\\img\\game-3.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-3.png",
+      "PackagePath": "staticwebassets\\img\\game-3.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-4.jpg",
+      "PackagePath": "staticwebassets\\img\\game-4.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-4.png",
+      "PackagePath": "staticwebassets\\img\\game-4.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-5.jpg",
+      "PackagePath": "staticwebassets\\img\\game-5.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-6.jpg",
+      "PackagePath": "staticwebassets\\img\\game-6.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-7.jpg",
+      "PackagePath": "staticwebassets\\img\\game-7.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-8.jpg",
+      "PackagePath": "staticwebassets\\img\\game-8.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-9.jpg",
+      "PackagePath": "staticwebassets\\img\\game-9.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\game-profile-card.jpg",
+      "PackagePath": "staticwebassets\\img\\game-profile-card.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\hunt-showdown.jpg",
+      "PackagePath": "staticwebassets\\img\\hunt-showdown.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\mac.png",
+      "PackagePath": "staticwebassets\\img\\mac.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\market-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\market-item-1.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\market-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\market-item-2.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\market-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\market-item-3.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\market-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\market-item-4.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\profile.png",
+      "PackagePath": "staticwebassets\\img\\profile.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\pubg.jpg",
+      "PackagePath": "staticwebassets\\img\\pubg.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\recommend-slide-img.png",
+      "PackagePath": "staticwebassets\\img\\recommend-slide-img.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\recommend-slide-logo.png",
+      "PackagePath": "staticwebassets\\img\\recommend-slide-logo.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-1.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-10.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-10.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-11.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-11.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-12.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-12.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-2.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-3.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-4.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-5.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-6.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-7.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-7.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-8.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-8.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\streem-item-9.jpg",
+      "PackagePath": "staticwebassets\\img\\streem-item-9.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\stronghold.jpg",
+      "PackagePath": "staticwebassets\\img\\stronghold.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\add-square.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\add-square.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\apple.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\apple.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\arrow-circle-left.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\arrow-circle-left.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\arrow-circle-right.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\arrow-circle-right.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\attach-circle.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\attach-circle.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\call.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\call.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\chats.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\chats.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\clipboard-text.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\clipboard-text.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\close-circle.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\close-circle.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\community.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\community.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\edit.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\edit.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\emoji-happy.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\emoji-happy.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\eye.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\eye.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\favourites.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\favourites.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\friends.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\friends.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\gallery.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\gallery.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\help.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\help.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\home.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\home.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\info-circle.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\info-circle.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\market.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\market.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\menu.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\menu.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\message.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\message.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\microphone.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\microphone.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\more.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\more.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\notification.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\notification.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\play-circle.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\play-circle.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\profile.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\profile.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\report.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\report.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\search.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\search.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\shopping-cart.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\star.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\star.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\store.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\store.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\streams.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\streams.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\tick-circle.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\tick-circle.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\trash.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\trash.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\video-circle.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\video-circle.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\wallet.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\wallet.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\svgico\\windows.svg",
+      "PackagePath": "staticwebassets\\img\\svgico\\windows.svg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\total-war.jpg",
+      "PackagePath": "staticwebassets\\img\\total-war.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\trending.jpg",
+      "PackagePath": "staticwebassets\\img\\trending.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-1.png",
+      "PackagePath": "staticwebassets\\img\\user-1.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-2.png",
+      "PackagePath": "staticwebassets\\img\\user-2.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-3.png",
+      "PackagePath": "staticwebassets\\img\\user-3.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-4.png",
+      "PackagePath": "staticwebassets\\img\\user-4.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-1.png",
+      "PackagePath": "staticwebassets\\img\\user-list-1.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-10.png",
+      "PackagePath": "staticwebassets\\img\\user-list-10.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-11.png",
+      "PackagePath": "staticwebassets\\img\\user-list-11.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-12.png",
+      "PackagePath": "staticwebassets\\img\\user-list-12.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-2.png",
+      "PackagePath": "staticwebassets\\img\\user-list-2.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-3.png",
+      "PackagePath": "staticwebassets\\img\\user-list-3.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-4.png",
+      "PackagePath": "staticwebassets\\img\\user-list-4.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-5.png",
+      "PackagePath": "staticwebassets\\img\\user-list-5.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-6.png",
+      "PackagePath": "staticwebassets\\img\\user-list-6.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-7.png",
+      "PackagePath": "staticwebassets\\img\\user-list-7.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-8.png",
+      "PackagePath": "staticwebassets\\img\\user-list-8.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\img\\user-list-9.png",
+      "PackagePath": "staticwebassets\\img\\user-list-9.png"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\js\\libs.js",
+      "PackagePath": "staticwebassets\\js\\libs.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\01_log-In.jpg",
+      "PackagePath": "staticwebassets\\preview\\01_log-In.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\02_register.jpg",
+      "PackagePath": "staticwebassets\\preview\\02_register.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\03_home.jpg",
+      "PackagePath": "staticwebassets\\preview\\03_home.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\04_profile.jpg",
+      "PackagePath": "staticwebassets\\preview\\04_profile.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\05_favourites.jpg",
+      "PackagePath": "staticwebassets\\preview\\05_favourites.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\06_chats.jpg",
+      "PackagePath": "staticwebassets\\preview\\06_chats.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\07_friends.jpg",
+      "PackagePath": "staticwebassets\\preview\\07_friends.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\08_wallet.jpg",
+      "PackagePath": "staticwebassets\\preview\\08_wallet.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\09_games-store.jpg",
+      "PackagePath": "staticwebassets\\preview\\09_games-store.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\10_game-profile.jpg",
+      "PackagePath": "staticwebassets\\preview\\10_game-profile.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\11_market.jpg",
+      "PackagePath": "staticwebassets\\preview\\11_market.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\12_streams.jpg",
+      "PackagePath": "staticwebassets\\preview\\12_streams.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\13_community.jpg",
+      "PackagePath": "staticwebassets\\preview\\13_community.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\14_report.jpg",
+      "PackagePath": "staticwebassets\\preview\\14_report.jpg"
+    },
+    {
+      "Id": "C:\\OrisSem2\\homework8\\TeamHostа\\TeamHost\\wwwroot\\preview\\15_help.jpg",
+      "PackagePath": "staticwebassets\\preview\\15_help.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TeamHost.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TeamHost.Web.props",
+      "PackagePath": "build\\TeamHost.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TeamHost.Web.props",
+      "PackagePath": "buildMultiTargeting\\TeamHost.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TeamHost.Web.props",
+      "PackagePath": "buildTransitive\\TeamHost.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
