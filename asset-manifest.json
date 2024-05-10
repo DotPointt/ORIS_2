@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ORIS_2/static/css/main.9dac460c.css",
-    "main.js": "/ORIS_2/static/js/main.a319cf36.js",
+    "main.js": "/ORIS_2/static/js/main.efec2955.js",
     "index.html": "/ORIS_2/index.html",
     "main.9dac460c.css.map": "/ORIS_2/static/css/main.9dac460c.css.map",
-    "main.a319cf36.js.map": "/ORIS_2/static/js/main.a319cf36.js.map"
+    "main.efec2955.js.map": "/ORIS_2/static/js/main.efec2955.js.map"
   },
   "entrypoints": [
     "static/css/main.9dac460c.css",
-    "static/js/main.a319cf36.js"
+    "static/js/main.efec2955.js"
   ]
 }
