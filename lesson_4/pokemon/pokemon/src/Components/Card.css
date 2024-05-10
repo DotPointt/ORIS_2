@@ -1,0 +1,41 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    text-align: center;
+    min-width: 50px;
+    min-height: 80px;
+  }
+
+.card a {
+    text-decoration: none !important; 
+    color: inherit;
+}
+
+.pokemon_info{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.pokemon_image{
+   
+    max-height: 150px;
+}
+
+.type_container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.type_box{
+    font-size: 14px;
+    border-radius: 15px;
+    padding: 5px 10px 5px 9px;
+    margin-top: 10px;
+    margin: 10px;
+    color: aliceblue;
+    text-transform: uppercase;
+}

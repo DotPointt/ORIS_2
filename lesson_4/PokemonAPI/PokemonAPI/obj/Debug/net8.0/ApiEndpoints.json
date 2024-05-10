@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "PokemonAPI.Controllers.PokemonController",
+    "Method": "GetPokemonByFilter",
+    "RelativePath": "pokemonApi/filter/{filter}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PokemonAPI.Models.Poke[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PokemonAPI.Controllers.PokemonController",
+    "Method": "GetMove",
+    "RelativePath": "pokemonApi/move/{param}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PokemonAPI.Models.Move",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PokemonAPI.Controllers.PokemonController",
+    "Method": "GetAllPokemonList",
+    "RelativePath": "pokemonApi/pokemon",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "PokemonAPI.Models.PokemonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PokemonAPI.Controllers.PokemonController",
+    "Method": "GetPokemonListByLimit",
+    "RelativePath": "pokemonApi/pokemon/offset={offset}\u0026limit={limit}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "offset",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PokemonAPI.Models.PokemonResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PokemonAPI.Controllers.PokemonController",
+    "Method": "GetPokemonByNameOrId",
+    "RelativePath": "pokemonApi/pokemon/{param}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "param",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PokemonAPI.Models.Pokemon",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

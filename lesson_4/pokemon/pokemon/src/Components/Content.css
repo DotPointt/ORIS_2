@@ -1,0 +1,16 @@
+.content{
+    align-self: center;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+  }
+
+  
+  
+  p{
+    margin: 10px;
+  }
+  

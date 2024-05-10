@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PokemonAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PokemonAPI.Controllers.PokemonController.GetPokemonByFilter(System.String)">
+            <summary>
+            Получение списка покемонов по фильтру
+            </summary>
+            <param name="filter">Параметр для фильтрации</param>
+            <returns>Возвращает массив покемонов по фильтру</returns>
+        </member>
+        <member name="M:PokemonAPI.Controllers.PokemonController.GetPokemonByNameOrId(System.String)">
+            <summary>
+            Получение покемона по ID либо Name
+            </summary>
+            <param name="param">ID либо Name покемона</param>
+            <returns>Возвращает одного покемона по ID/Name</returns>
+        </member>
+        <member name="M:PokemonAPI.Controllers.PokemonController.GetAllPokemonList">
+            <summary>
+            Получение списка всех покемонов
+            </summary>
+            <returns>Возвращает список всех покемонов</returns>
+        </member>
+        <member name="M:PokemonAPI.Controllers.PokemonController.GetMove(System.String)">
+            <summary>
+            Получение мува покемона по ID либо Name
+            </summary>
+            <param name="param">ID либо Name мува</param>
+            <returns>Возвращает мув покемона</returns>
+        </member>
+        <member name="M:PokemonAPI.Controllers.PokemonController.GetPokemonListByLimit(System.Int32,System.Int32)">
+            <summary>
+            Пагинация
+            </summary>
+            <param name="offset">ID покемона, с которого нужно вернуть массив покемнов</param>
+            <param name="limit">Количество покемонов, которое необходимо получить</param>
+            <returns>Возвращает необходимый массив покемонов</returns>
+        </member>
+        <member name="T:PokemonAPI.Models.Pokemon">
+            <summary>
+            Покемон
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Pokemon.Id">
+            <summary>
+            ID покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Pokemon.Name">
+            <summary>
+            Имя покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Pokemon.Height">
+            <summary>
+            Рост покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Pokemon.Weight">
+            <summary>
+            Вес покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Pokemon.ImageUrl">
+            <summary>
+            Ссылка на картинку покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Pokemon.Abilities">
+            <summary>
+            Массив абилок покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Pokemon.Types">
+            <summary>
+            Массив типов покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Pokemon.Moves">
+            <summary>
+            Массив мувов покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Pokemon.Stats">
+            <summary>
+            Массив со статами покемона
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.PokemonAbilities">
+            <summary>
+            Массив с абилками покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.PokemonAbilities.Slot">
+            <summary>
+            Слот абилки покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.PokemonAbilities.Ability">
+            <summary>
+            Абилка покемона
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.Ability">
+            <summary>
+            Абилка покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Ability.Name">
+            <summary>
+            Название абилки
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Ability.Url">
+            <summary>
+            Ссылка на абилку
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.PokemonMoves">
+            <summary>
+            Массив с мувами покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.PokemonMoves.Move">
+            <summary>
+            Мув покемона
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.Move">
+            <summary>
+            Мув покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Move.Name">
+            <summary>
+            Название мува
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Move.Url">
+            <summary>
+            Ссылка на мув
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Move.Type">
+            <summary>
+            Тип мува покемона
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.Poke">
+            <summary>
+            Покемон
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Poke.Name">
+            <summary>
+            Имя покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Poke.Url">
+            <summary>
+            Ссылка на покемона
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.PokemonResponse">
+            <summary>
+            Массив покемонов
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.PokemonResponse.Count">
+            <summary>
+            Количество всех покемонов
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.PokemonResponse.Results">
+            <summary>
+            Массив покемонов
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.PokemonStats">
+            <summary>
+            Массив со статами покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.PokemonStats.BaseStat">
+            <summary>
+            Параметр статы покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.PokemonStats.Stat">
+            <summary>
+            Стата покемона
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.Stat">
+            <summary>
+            Стата покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Stat.Name">
+            <summary>
+            Название статы покемона
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.PokemonTypes">
+            <summary>
+            Массив с типами покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.PokemonTypes.Slot">
+            <summary>
+            Слот типа покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.PokemonTypes.Type">
+            <summary>
+            Тип покемона
+            </summary>
+        </member>
+        <member name="T:PokemonAPI.Models.Type">
+            <summary>
+            Тип покемона
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Type.Name">
+            <summary>
+            Название типа
+            </summary>
+        </member>
+        <member name="P:PokemonAPI.Models.Type.Url">
+            <summary>
+            Ссылка на тип
+            </summary>
+        </member>
+    </members>
+</doc>
