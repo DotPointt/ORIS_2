@@ -9,7 +9,7 @@ namespace PokemonAPI.Controllers
     [ApiController]
     public class PokemonController(IDistributedCache distributedCache) : ControllerBase
     {
-        private readonly PokeApiService? _pokeApiService = new (distributedCache);
+        private readonly PokeApiService? _pokeApiService = new PokeApiService (distributedCache);
         
         /// <summary>
         /// Получение списка покемонов по фильтру

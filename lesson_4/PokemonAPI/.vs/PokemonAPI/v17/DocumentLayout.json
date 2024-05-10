@@ -64,9 +64,10 @@
               "RelativeDocumentMoniker": "PokemonAPI\\Services\\PokeApiService.cs",
               "ToolTip": "C:\\ORIS_2\\lesson_4\\PokemonAPI\\PokemonAPI\\Services\\PokeApiService.cs",
               "RelativeToolTip": "PokemonAPI\\Services\\PokeApiService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T12:05:30.746Z"
+              "WhenOpened": "2024-05-10T12:05:30.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,7 +77,7 @@
               "RelativeDocumentMoniker": "PokemonAPI\\Controllers\\PokemonController.cs",
               "ToolTip": "C:\\ORIS_2\\lesson_4\\PokemonAPI\\PokemonAPI\\Controllers\\PokemonController.cs",
               "RelativeToolTip": "PokemonAPI\\Controllers\\PokemonController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAEwDYAAAAkAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T12:06:05.234Z",
               "EditorCaption": ""
@@ -89,9 +90,10 @@
               "RelativeDocumentMoniker": "PokemonAPI\\Program.cs",
               "ToolTip": "C:\\ORIS_2\\lesson_4\\PokemonAPI\\PokemonAPI\\Program.cs",
               "RelativeToolTip": "PokemonAPI\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAA5AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T11:56:46.292Z"
+              "WhenOpened": "2024-05-10T11:56:46.292Z",
+              "EditorCaption": ""
             }
           ]
         },
