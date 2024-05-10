@@ -1,0 +1,26 @@
+@{
+    string currentController = ViewContext.RouteData.Values["Controller"]!.ToString()!;
+}
+
+
+<aside class="sidebar is-show" id="sidebar">
+    <div class="sidebar-box">
+        <ul class="uk-nav">
+            <li class="@(currentController == "Home" ? "uk-active" : "")"><a asp-controller="Home" asp-action="Index" asp-area="Home"> <i class="ico_home"></i><span>Home</span></a></li>
+            <li class="uk-nav-header">Account</li>
+            <li class="@(currentController == "Profile" ? "uk-active" : "")"><a asp-controller="Profile" asp-action="Index" asp-area="Account"><i class="ico_profile"></i><span>Profile</span></a></li>
+            <li class="@(currentController == "Favourite" ? "uk-active" : "")"><a asp-controller="Favourite" asp-action="Index" asp-area="Account"><i class="ico_favourites"></i><span>Favourites</span><span class="count">15</span></a></li>
+            <li class="@(currentController == "Chat" ? "uk-active" : "")"><a asp-controller="Chat" asp-action="Index" asp-area="Account"><i class="ico_chats"></i><span>Chats</span></a></li>
+            <li class="@(currentController == "Friends" ? "uk-active" : "")"><a asp-controller="Friends" asp-action="Index" asp-area="Account"><i class="ico_friends"></i><span>Friends</span></a></li>
+            <li class="@(currentController == "Wallet"  ? "uk-active" : "")"><a asp-controller="Wallet" asp-action="Index" asp-area="Account"><i class="ico_wallet"></i><span>Wallet</span></a></li>
+            <li class="uk-nav-header">Main</li>
+            <li class="@(currentController == "Store"  ? "uk-active" : "")"><a asp-controller="Store" asp-action="Index" asp-area="Main"><i class="ico_store"></i><span>Store</span></a></li>
+            <li class="@(currentController == "Market" ? "uk-active" : "")"><a asp-controller="Market" asp-action="Index" asp-area="Main"><i class="ico_market"></i><span>Market</span></a></li>
+            <li class="@(currentController == "Streams" ? "uk-active" : "")"><a asp-controller="Streams" asp-action="Index" asp-area="Main"><i class="ico_streams"></i><span>Streams</span></a></li>
+            <li class="@(currentController == "Community" ? "uk-active" : "")"><a asp-controller="Community" asp-action="Index" asp-area="Main"><i class="ico_community"></i><span>CommunityController</span></a></li>
+            <li class="uk-nav-header">Support</li>
+            <li><a href="#modal-report" data-uk-toggle><i class="ico_report"></i><span>Report</span></a></li>
+            <li><a href="#modal-help" data-uk-toggle><i class="ico_help"></i><span>Help</span></a></li>
+        </ul>
+    </div>
+    </aside>

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <meta charset="utf-8">
+         <title>TeamHost.Web - Join now and play mighty games!</title>
+         <meta content="Templines" name="author">
+         <meta content="TeamHost" name="description">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <meta name="HandheldFriendly" content="true">
+         <meta name="format-detection" content="telephone=no">
+         <meta content="IE=edge" http-equiv="X-UA-Compatible">
+         <link rel="shortcut icon" href="~/img/favicon.png" type="image/x-icon">
+         <link rel="stylesheet" href="~/css/libs.min.css">
+         <link rel="stylesheet" href="~/css/main.css">
+         <link rel="preconnect" href="https://fonts.googleapis.com">
+         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+         <link href="https://fonts.googleapis.com/css2?family=Marcellus&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="page-wrapper">
+            
+           <partial name="_Header"/>
+            <div class="page-content">
+                <partial name="_NavBar"/>
+                @RenderBody()
+            </div>
+            
+        </div>
+        <div class="page-modals">
+            @await Html.PartialAsync("Support/_ReportPartial")
+            @await Html.PartialAsync("Support/_HelpPartial")
+        </div>
+        <script src="~/js/libs.js"></script>
+        <script src="~/js/main.js"></script>
+
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>
