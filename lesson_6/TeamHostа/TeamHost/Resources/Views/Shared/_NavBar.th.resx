@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Account" xml:space="preserve">
+        <value>บัญชี</value>
+    </data>
+    <data name="Chats" xml:space="preserve">
+        <value>แชท</value>
+    </data>
+    <data name="Community" xml:space="preserve">
+        <value>ชุมชน</value>
+    </data>
+    <data name="Favourites" xml:space="preserve">
+        <value>ที่ชื่นชอบ</value>
+    </data>
+    <data name="Friend" xml:space="preserve">
+        <value>เพื่อน</value>
+    </data>
+    <data name="Friends" xml:space="preserve">
+        <value>เพื่อน</value>
+    </data>
+    <data name="Help" xml:space="preserve">
+        <value>ช่วย</value>
+    </data>
+    <data name="Home" xml:space="preserve">
+        <value>บ้าน</value>
+    </data>
+    <data name="Main" xml:space="preserve">
+        <value>บ้าน</value>
+    </data>
+    <data name="Market" xml:space="preserve">
+        <value>ตลาด</value>
+    </data>
+    <data name="Profile" xml:space="preserve">
+        <value>ประวัติโดยย่อ</value>
+    </data>
+    <data name="Report" xml:space="preserve">
+        <value>ร้องทุกข์</value>
+    </data>
+    <data name="Store" xml:space="preserve">
+        <value>ร้านค้า</value>
+    </data>
+    <data name="Streams" xml:space="preserve">
+        <value>สตรีม</value>
+    </data>
+    <data name="Support" xml:space="preserve">
+        <value>ช่วย</value>
+    </data>
+    <data name="Wallet" xml:space="preserve">
+        <value>กระเป๋าสตางค์</value>
+    </data>
+</root>
