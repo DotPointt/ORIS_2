@@ -18,17 +18,17 @@ function App() {
 
   useEffect( () => {
     const fetchPokemons = async () =>{
-      const response = await fetch('https://pokeapi.co/api/v2/pokemon/?limit=1300');
+      const response = await fetch('https://localhost:7046/pokemonApi/pokemon');
       const cards = await response.json();
       setDefaultList(cards);
     };
 
-    fetchPokemons();
+    fetchPokemons(); 
   }, []);
 
   useEffect( () => {
     if (fetching){
-      axios.get(`https://pokeapi.co/api/v2/pokemon/?limit=30&offset=${pages}`)
+      axios.get(`https://localhost:7046/pokemonApi/pokemon/offset=${pages}&limit=10`)
           .then(response => {
             setPages( prevState => prevState + 20);
             setDefaultList(response.data);
